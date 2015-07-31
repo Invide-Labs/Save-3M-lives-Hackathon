@@ -17,16 +17,16 @@ The job will require multiple systems to streamline the process, choose one whic
 4. A central monitoring system of resources and trading
 5. Your idea to help save the world
 
-Assumptions:
+#####Assumptions:
 Every person on the earth has at least one smart phone with data connectivity, through intelligent migration the same will work on Biome-1109.
 
-Instructions:
+#####Instructions:
 The system should be a minimum viable product. 
 App developers need not to develop apis, use dummy data instead. Code it!
 Backend developers need not to develop apps, just design the data structure, architecture and REST APIs. Code it!
 For everybody else, do what you are good at.
  
-For evaluation we will need
+#####For evaluation we will need
 1. Flow diagram/data structure/Screenshots if applicable
 2. Code, shared through your github or bitbucket repository
 3. Instructions to run/install the program
