@@ -1,4 +1,4 @@
-#Hackathon for creative peoples and hackers
+#Hackathon for hackers, designers and creative people
 
 ###Problem Statement:
 
