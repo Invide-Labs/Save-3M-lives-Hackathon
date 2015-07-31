@@ -11,6 +11,7 @@ Biome-1109 is quite similar to earth and has an exact similar communication digi
 You are one of the excellent team member of this rehabilitation program. We all have decided to let people trade their resources(e.g. clothes, food, electronics, machines etc.) in exchange of a virtual currency "Kard". 'Kards' can be used to book resources on Biome-1109 including priority to transport to Biome-1109.
 
 The job will require multiple systems to streamline the process, choose one which you can do the best
+
 1. A system to educate people about the collision, it's impact and the way forward(trading resources and migrating)
 2. A system to trade your resources in exchange of 'Kards'
 3. A system to pre-book resources on Biome-1109
